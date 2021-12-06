@@ -1,5 +1,5 @@
 # Transfer Learning and fine-tuning
-This repo provides an implementation of transfer learning based on [Keras Applications](https://keras.io/api/applications/) for the classification of plants deficiency. Current codes include:
+This repo provides an implementation of transfer learning based on [Keras Applications](https://keras.io/api/applications/) for detection of plants deficiency. Current codes include:
 
 * VGG16
 * ResNet-50
